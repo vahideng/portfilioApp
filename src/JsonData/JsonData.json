@@ -1,0 +1,178 @@
+{
+
+  "frameworks": {
+    "ReactJS": "90%",
+    "ReduxJS": "90%",
+    "axios": "90%",
+    "Firebase": "60%",
+    "Bootstrap": "70%",
+    "ReactBootstrap": "70%",
+    "Webpack": "40%",
+    "AWS": "40%",
+    "Nodejs": "30%",
+    "Express": "30%",
+    "Webpack": "30%"
+  },
+
+  "database": {
+    " MySQL": "80%",
+    "MangoDB": "60%",
+    "SQLite": "60%"
+  },
+  "works": [{
+      "company": "The Bookurve sdn bhd - Kuala Lumpur",
+      "position": "Frontend developer ",
+      "website": "http://www.bookurve.com/",
+      "startDate": "July 2016-August 2018  ",
+      "endDate": "August 2018 ",
+      "summary": "Work collaboratively with clients and teams to provide rapid, robust and client-acclaimed frontend web development optimizing user experience. Responsible for all stages of web site creations for clientele, from initial design and architecture to development, deployment, and management of web sites",
+      "highlights": [
+        "JavaScript",
+        "ReactJS",
+        "ReduxJS"
+      ]
+    },
+    {
+      "company": "West Azarbayejan gas company Services ",
+      "position": "Summer Internship, Frontend developer ",
+      "website": "http://www.bookurve.com/",
+      "startDate": "February 2009-May 2009  ",
+      "endDate": "May 2009 ",
+      "summary": "Design and implement different software system, database design and implementation using MySQL, Object Oriented Programming using JavaScript",
+      "highlights": [
+        "JavaScript",
+        "HTML",
+        "CSS"
+      ]
+    },
+    {
+      "company": "Abiaran Company",
+      "position": "Testing and debugging (js) ",
+      "website": "http://www.bookurve.com/",
+      "startDate": "May 2006-April 2008",
+      "endDate": "April 2008 ",
+      "summary": "Assisting system administrators and programmers in testing and debugging of new systems and programs",
+      "highlights": [
+        "C#",
+        "MySQL",
+        "JavaScripts"
+      ]
+    }
+  ],
+  "education": [{
+      "institution": "UTM university - Kuala Lumpur ",
+      "area": "<AREA_OF_STUDY>",
+      "studyType": "PHD in software engineering ",
+      "startDate": "September 2018 ",
+      "endDate": "<END_DATE>",
+      "gpa": "A",
+      "summary": "<SUMMARY>",
+      "courses": [
+        "<COURSE_1>",
+        "<COURSE_2>",
+        "<COURSE_3>"
+      ]
+    },
+    {
+      "institution": "Multimedia University, Cyberjaya",
+      "area": "<AREA_OF_STUDY>",
+      "studyType": "Masters of Software Engineering & Software Architecture ",
+      "startDate": "February 2013",
+      "endDate": "<END_DATE>",
+      "gpa": "3.3/4",
+      "summary": "<SUMMARY>",
+      "courses": [
+        "<COURSE_1>",
+        "<COURSE_2>",
+        "<COURSE_3>"
+      ]
+    },
+    {
+      "institution": "Elm-va-Fan Institute of Higher Education of Oroumieh",
+      "area": "<AREA_OF_STUDY>",
+      "studyType": "Bachelor Degree of Software Engineering",
+      "startDate": "2009",
+      "endDate": "<END_DATE>",
+      "gpa": "15/20",
+      "summary": "<SUMMARY>",
+      "courses": [
+        "<COURSE_1>",
+        "<COURSE_2>",
+        "<COURSE_3>"
+      ]
+    },
+    {
+      "institution": "Technical&Vocational Colleges of Shahre-kord",
+      "area": "<AREA_OF_STUDY>",
+      "studyType": "Associate Degree of Software Engineering",
+      "startDate": "2007",
+      "endDate": "<END_DATE>",
+      "gpa": "16/20",
+      "summary": "<SUMMARY>",
+      "courses": [
+        "<COURSE_1>",
+        "<COURSE_2>",
+        "<COURSE_3>"
+      ]
+    }
+
+  ],
+
+  "projects": [{
+      "name": "BURGER - APP ",
+      "publisher": "<PUBLISHER>",
+      "category": "Ractjs-Reduxjs",
+      "releaseDate": "19/sep/2018",
+      "website": "https://my-burger-app-46e6c.firebaseapp.com/",
+      "summary": "Burger Builder Application built using React Js and ReduxJs",
+      "image": "https://firebasestorage.googleapis.com/v0/b/my-burger-app-46e6c.appspot.com/o/Screenshot%202018-10-21%20at%204.34.42%20PM.png?alt=media&token=1b0f3d5c-1127-4c3e-b5da-a62ced265269"
+    },
+    {
+      "name": "YOUTUBE-API",
+      "publisher": "<PUBLISHER>",
+      "category": "Ractjs-Reduxjs",
+      "releaseDate": "10/oct/2018",
+      "website": "https://github.com/vahideng/Burger-App",
+      "summary": "using Youtube API with simple UI interface (ReactJS)",
+      "image": "https://firebasestorage.googleapis.com/v0/b/my-burger-app-46e6c.appspot.com/o/maxresdefault.jpg?alt=media&token=559977b1-c980-46dd-b419-b288c1f3ed9e"
+    },
+    {
+      "name": "ONLINE STORE",
+      "publisher": "<PUBLISHER>",
+      "category": "Ractjs-Reduxjs",
+      "releaseDate": "10/oct/2018",
+      "website": "https://github.com/vahideng/storefront",
+      "summary": "It could be used for online shopping and E-commerce website as it implements a cart. It has been built using React, and redux has been utilised to manage the state of the App.",
+      "image": "https://firebasestorage.googleapis.com/v0/b/my-burger-app-46e6c.appspot.com/o/storefront.jpg?alt=media&token=e70dff58-255f-4419-92da-5d0fca32c258"
+    },
+    {
+      "name": "WEATHER FORCASTING",
+      "publisher": "<PUBLISHER>",
+      "category": "Ractjs-Reduxjs",
+      "releaseDate": "10/oct/2017",
+      "website": "https://github.com/vahideng/Weather-Forcasting",
+      "summary": "Weather forecasting Application built using React Js and ReduxJs. Used openweathermap API",
+      "image":"https://firebasestorage.googleapis.com/v0/b/my-burger-app-46e6c.appspot.com/o/weatherforcast.jpg?alt=media&token=0f0fca79-9026-4ec1-a395-27056ae78fb2"
+    },
+    {
+      "name": "BLOGGING APP",
+      "publisher": "<PUBLISHER>",
+      "category": "Ractjs-Reduxjs",
+      "releaseDate": "10/oct/2018",
+      "website": "https://github.com/vahideng/Blogging-App",
+      "summary": "it is a blogging app built using React Js and ReduxJs, Axios, Redux-Promise , Redux-Form,React-Router, React-Bootstrap and react-route",
+      "image": "https://firebasestorage.googleapis.com/v0/b/my-burger-app-46e6c.appspot.com/o/bloggingapp.jpg?alt=media&token=677f64b4-7001-46df-a996-ae246ffd5360"
+    },
+    {
+      "name": "ToDO APP",
+      "publisher": "<PUBLISHER>",
+      "category": "Ractjs-Reduxjs",
+      "releaseDate": "10/oct/2018",
+      "website": "https://github.com/vahideng/ToDoApp",
+      "summary": "Simple to do application build by reactjs",
+      "image": "https://firebasestorage.googleapis.com/v0/b/my-burger-app-46e6c.appspot.com/o/todoapp.jpg?alt=media&token=a81c329c-6b0a-4806-8249-921407d6a9a8"
+    }
+
+  ]
+
+}

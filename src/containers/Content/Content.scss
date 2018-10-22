@@ -1,0 +1,52 @@
+
+.Container{
+  width: 90%;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+.InformationWrapper {
+
+  display: flex;
+  margin-bottom: 30px;
+  padding-top: 30px;
+
+}
+.WorkWrapper{
+  div {
+  border-bottom: 1px solid #c7c7c3;
+
+
+  &:last-child {
+    border-bottom: none;
+    margin-bottom: 20px;
+  }
+  }
+}
+
+.Title {
+  font-size: 2rem;
+  margin-right: 40px;
+  border-bottom: 3px solid #11ABB0;
+  color: black;
+  display: flex;
+  width: 180px;
+
+
+}
+@media (max-width: 600px) {
+  .Info {
+    text-align: left;
+  }
+
+  .InformationWrapper {
+    margin-top: 40px;
+    flex-direction: column;
+  }
+  .Title {
+    width: 120px;
+  }
+}
+
+.BorderDevide{
+  border: 1px solid #11ABB0;
+}

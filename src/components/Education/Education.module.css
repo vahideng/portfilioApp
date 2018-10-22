@@ -1,0 +1,1 @@
+.Wrapper{display:flex;flex-direction:column;width:100%;line-height:2.4}.Info{flex-grow:1;letter-spacing:140%;text-align:justify;color:#7A7A79;padding-bottom:20px}.Highlights{display:flex;margin-bottom:20px}.Highlights p{margin:0 10px}.Highlights p:first-child{margin:0}@media (max-width: 600px){.Info{text-align:left}.Wrapper{margin-top:0;flex-direction:column}}

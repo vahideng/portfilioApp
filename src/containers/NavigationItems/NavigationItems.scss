@@ -1,0 +1,43 @@
+.NavWrapper {
+  display: flex;
+  flex-direction: column;
+  padding: 0;
+  position: fixed;
+  z-index: 10;
+
+
+
+  div {
+    padding-bottom: 10px;
+    width: 100px;
+    border-bottom: 1px dotted #2D2E34;
+
+    a {
+      color: white;
+      text-align: center;
+      cursor: pointer;
+      font-size: 14px;
+      font-weight: bold;
+    }
+  }
+}
+
+.NavWrapper__Link {
+  color: red;
+}
+@media (min-width : 600px) {
+  .NavWrapper {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 0;
+    padding-top: 10px;
+    width: 100%;
+    background-color: #333;
+
+    div {
+      width: auto;
+      border-bottom: none;
+    }
+  }
+}

@@ -1,0 +1,39 @@
+.Container {
+  background: #ebeeee;
+  text-align: center;
+  color: #7A7A79;
+}
+
+.ContainerWrapper {
+  width: 33%;
+}
+
+.PortfolioWrapper {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  box-sizing: border-box;
+  text-align: center;
+  margin-top: 60px;
+  padding-bottom: 40px;
+}
+
+.PortfilioImage {
+  width: 200px;
+  height: 200px;
+  border: 1px solid gray;
+
+  &:hover {
+    cursor: pointer;
+    filter:contrast(60%);
+  }
+}
+@media (max-width:600px) {
+  .PortfolioWrapper {
+    flex-direction: column;
+  }
+
+  .ContainerWrapper {
+    width: auto;
+  }
+}

@@ -1,0 +1,1 @@
+.SideDrawer{margin-top:10px;width:200px;height:260px;position:fixed;top:40px;right:2px;z-index:1;background-color:#1f2024;padding:10px;border-radius:10px}.SideDrawerToggle{top:30px;right:2px;z-index:2}@media (min-width: 600px){.DestktopOnly{display:none}}
