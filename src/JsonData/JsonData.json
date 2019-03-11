@@ -1,5 +1,4 @@
 {
-
   "frameworks": {
     "ReactJS": "90%",
     "ReduxJS": "90%",
@@ -10,27 +9,34 @@
     "Webpack": "40%",
     "AWS": "40%",
     "Nodejs": "30%",
-    "Express": "30%",
-    "Webpack": "30%"
+    "Express": "30%"
+   
   },
 
   "database": {
-    " MySQL": "80%",
-    "MangoDB": "60%",
+    " MySQL": "40%",
+    "MangoDB": "20%",
     "SQLite": "60%"
   },
-  "works": [{
+  "works": [
+    {
+      "company": "Digi telecommunication sdn bhd - Kuala Lumpur ",
+      "position": "senior react developer",
+      "website": "https://www.easyadd.my/",
+      "startDate": "Novemebr 2018 ",
+      "endDate": "currently ",
+      "summary": "One place to manage all your entertainment and lifestyle subscriptions. Explore, Subscribe and Manage with EasyAdd",
+      "highlights": ["Reactjs","Enzyme","Reduxjs","jest","JavaScript-ES6", "HTML5", "CSS3"]
+    },
+
+    {
       "company": "The Bookurve sdn bhd - Kuala Lumpur",
-      "position": "Frontend developer ",
+      "position": "Frontend developer",
       "website": "http://www.bookurve.com/",
       "startDate": "July 2016-August 2018  ",
       "endDate": "August 2018 ",
       "summary": "Work collaboratively with clients and teams to provide rapid, robust and client-acclaimed frontend web development optimizing user experience. Responsible for all stages of web site creations for clientele, from initial design and architecture to development, deployment, and management of web sites",
-      "highlights": [
-        "JavaScript",
-        "ReactJS",
-        "ReduxJS"
-      ]
+      "highlights": ["JavaScript-ES6", "ReactJS", "ReduxJS","Axios"]
     },
     {
       "company": "West Azarbayejan gas company Services ",
@@ -39,11 +45,7 @@
       "startDate": "February 2009-May 2009  ",
       "endDate": "May 2009 ",
       "summary": "Design and implement different software system, database design and implementation using MySQL, Object Oriented Programming using JavaScript",
-      "highlights": [
-        "JavaScript",
-        "HTML",
-        "CSS"
-      ]
+      "highlights": ["JavaScript", "HTML", "CSS"]
     },
     {
       "company": "Abiaran Company",
@@ -52,14 +54,11 @@
       "startDate": "May 2006-April 2008",
       "endDate": "April 2008 ",
       "summary": "Assisting system administrators and programmers in testing and debugging of new systems and programs",
-      "highlights": [
-        "C#",
-        "MySQL",
-        "JavaScripts"
-      ]
+      "highlights": ["C#", "MySQL", "JavaScripts"]
     }
   ],
-  "education": [{
+  "education": [
+    {
       "institution": "UTM university - Kuala Lumpur ",
       "area": "<AREA_OF_STUDY>",
       "studyType": "PHD in software engineering ",
@@ -67,11 +66,7 @@
       "endDate": "<END_DATE>",
       "gpa": "A",
       "summary": "<SUMMARY>",
-      "courses": [
-        "<COURSE_1>",
-        "<COURSE_2>",
-        "<COURSE_3>"
-      ]
+      "courses": ["<COURSE_1>", "<COURSE_2>", "<COURSE_3>"]
     },
     {
       "institution": "Multimedia University, Cyberjaya",
@@ -81,11 +76,7 @@
       "endDate": "<END_DATE>",
       "gpa": "3.3/4",
       "summary": "<SUMMARY>",
-      "courses": [
-        "<COURSE_1>",
-        "<COURSE_2>",
-        "<COURSE_3>"
-      ]
+      "courses": ["<COURSE_1>", "<COURSE_2>", "<COURSE_3>"]
     },
     {
       "institution": "Elm-va-Fan Institute of Higher Education of Oroumieh",
@@ -95,11 +86,7 @@
       "endDate": "<END_DATE>",
       "gpa": "15/20",
       "summary": "<SUMMARY>",
-      "courses": [
-        "<COURSE_1>",
-        "<COURSE_2>",
-        "<COURSE_3>"
-      ]
+      "courses": ["<COURSE_1>", "<COURSE_2>", "<COURSE_3>"]
     },
     {
       "institution": "Technical&Vocational Colleges of Shahre-kord",
@@ -109,16 +96,12 @@
       "endDate": "<END_DATE>",
       "gpa": "16/20",
       "summary": "<SUMMARY>",
-      "courses": [
-        "<COURSE_1>",
-        "<COURSE_2>",
-        "<COURSE_3>"
-      ]
+      "courses": ["<COURSE_1>", "<COURSE_2>", "<COURSE_3>"]
     }
-
   ],
 
-  "projects": [{
+  "projects": [
+    {
       "name": "BURGER - APP ",
       "publisher": "<PUBLISHER>",
       "category": "Ractjs-Reduxjs",
@@ -152,7 +135,7 @@
       "releaseDate": "10/oct/2017",
       "website": "https://github.com/vahideng/Weather-Forcasting",
       "summary": "Weather forecasting Application built using React Js and ReduxJs. Used openweathermap API",
-      "image":"https://firebasestorage.googleapis.com/v0/b/my-burger-app-46e6c.appspot.com/o/weatherforcast.jpg?alt=media&token=0f0fca79-9026-4ec1-a395-27056ae78fb2"
+      "image": "https://firebasestorage.googleapis.com/v0/b/my-burger-app-46e6c.appspot.com/o/weatherforcast.jpg?alt=media&token=0f0fca79-9026-4ec1-a395-27056ae78fb2"
     },
     {
       "name": "BLOGGING APP",
@@ -172,7 +155,5 @@
       "summary": "Simple to do application build by reactjs",
       "image": "https://firebasestorage.googleapis.com/v0/b/my-burger-app-46e6c.appspot.com/o/todoapp.jpg?alt=media&token=a81c329c-6b0a-4806-8249-921407d6a9a8"
     }
-
   ]
-
 }
