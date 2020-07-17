@@ -25,8 +25,8 @@ constructor(props) {
       </header>
 
       <Content/>
-      <Portfolio/>
-      <Slider />
+      {/* <Portfolio/> */}
+   
       <div ref={this.refPortfilio}>
         <Footer/>
       </div>

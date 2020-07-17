@@ -1,60 +1,81 @@
 {
   "frameworks": {
-    "ReactJS": "90%",
-    "ReduxJS": "90%",
+    "React.js ": "100%",
+    "React Native": "100%",
+    "Redux.js": "100%",
+    "TypeScript": "80%",
+    "React Hooks":"80%",
+    "Redux-Thunk": "100%",
+    "Redux-SAGA": "80%",
+    "Storybook" :"70%",
+    "Story-Books": "80%",
     "axios": "90%",
+    "Angular":"30%",
     "Firebase": "60%",
-    "Bootstrap": "70%",
-    "ReactBootstrap": "70%",
-    "Webpack": "40%",
+    "Enzyme":"40%",
+    "Bootstrap": "90%",
+    "ReactBootstrap": "80%",
+    "Webpack": "60%",
     "AWS": "40%",
+    "patternlab.io":"40%",
+    "Jenkins (CI/CD)": "30%",
     "Nodejs": "30%",
     "Express": "30%"
    
   },
 
   "database": {
-    " MySQL": "40%",
+    " MySQL": "60%",
     "MangoDB": "20%",
     "SQLite": "60%"
   },
   "works": [
+
     {
-      "company": "Digi telecommunication sdn bhd - Kuala Lumpur ",
-      "position": "senior react developer",
+      "company": "ALEPH LABS SDN BHD ,MALAYSIA — SEPTEMBER ",
+      "position": "LEAD FRONT-END DEVELOPER- DESIGN ENGINEER, ",
+      "website": "https://aleph-labs.com/",
+      "startDate": " SEPTEMBER 2019",
+      "endDate": "PRESENT",
+      "summary": "Project Technology stack: React Native (60) , React.js, Redux.js, TypeScript, Redux thunk, Sass , Storybook, patternlab.io, Styled component, Angular, Jest, Enzyme, Figma, Zeplin, Google Tag Manager",
+      "highlights": ["React Native (60) , React.js, Redux.js, TypeScript, Redux thunk, Sass , Storybook, patternlab.io, Styled component, Angular, Jest, Enzyme, Figma, Zeplin, Google Tag Manager"]
+    },
+    {
+      "company": "DIGI SDN BHD, MALAYSIA - Kuala Lumpur ",
+      "position": "SENIOR REACT DEVELOPER",
       "website": "https://www.easyadd.my/",
-      "startDate": "Novemebr 2018 ",
-      "endDate": "currently ",
-      "summary": "One place to manage all your entertainment and lifestyle subscriptions. Explore, Subscribe and Manage with EasyAdd",
+      "startDate": "NOVEMBER 2018 ",
+      "endDate": "SEPTEMBER 2019 ",
+      "summary": "Project Technology stack : JavaScript (ES6 & ES7 ),TypeScript, React.js,Redux.js,keycloak.js, HTML5, Jest,Enzyme WebPack, LESS / SASS, CSS3, Axios, , Google Tag Manager, Jira, Facebook Pixel",
       "highlights": ["Reactjs","Enzyme","Reduxjs","jest","JavaScript-ES6", "HTML5", "CSS3"]
     },
 
     {
-      "company": "The Bookurve sdn bhd - Kuala Lumpur",
-      "position": "Frontend developer",
+      "company": "BOOKURVE SDN BHD, MALAYSIA",
+      "position": "FRONT-END DEVELOPER",
       "website": "http://www.bookurve.com/",
       "startDate": "July 2016-August 2018  ",
       "endDate": "August 2018 ",
-      "summary": "Work collaboratively with clients and teams to provide rapid, robust and client-acclaimed frontend web development optimizing user experience. Responsible for all stages of web site creations for clientele, from initial design and architecture to development, deployment, and management of web sites",
+      "summary": "Project Technology stack: JavaScript ES5,ES6, HTML, CSS, SASS, React.js, jQuery, AJAX, bootstrap",
       "highlights": ["JavaScript-ES6", "ReactJS", "ReduxJS","Axios"]
-    },
+    },  
     {
-      "company": "West Azarbayejan gas company Services ",
-      "position": "Summer Internship, Frontend developer ",
-      "website": "http://www.bookurve.com/",
-      "startDate": "February 2009-May 2009  ",
-      "endDate": "May 2009 ",
-      "summary": "Design and implement different software system, database design and implementation using MySQL, Object Oriented Programming using JavaScript",
-      "highlights": ["JavaScript", "HTML", "CSS"]
-    },
-    {
-      "company": "Abiaran Company",
+      "company": "ABIARAN COMPANY",
       "position": "Testing and debugging (js) ",
       "website": "http://www.bookurve.com/",
       "startDate": "May 2006-April 2008",
       "endDate": "April 2008 ",
-      "summary": "Assisting system administrators and programmers in testing and debugging of new systems and programs",
+      "summary": "Project Technology stack: JavaScript, HTML, CSS, jQuery, Photoshop, Java",
       "highlights": ["C#", "MySQL", "JavaScripts"]
+    },
+    {
+      "company": "WEST AZARBAYJAN GAS COMPANY SERVICES ",
+      "position": "Internship, Frontend developer ",
+      "website": "http://www.bookurve.com/",
+      "startDate": "February 2009-May 2009  ",
+      "endDate": "May 2009 ",
+      "summary": "Project Technology stack: JavaScript, HTML, CSS, UML Design, My SQL, Adobe Photoshop",
+      "highlights": ["JavaScript", "HTML", "CSS"]
     }
   ],
   "education": [
@@ -62,7 +83,7 @@
       "institution": "UTM university - Kuala Lumpur ",
       "area": "<AREA_OF_STUDY>",
       "studyType": "PHD in software engineering ",
-      "startDate": "September 2018 ",
+      "startDate": "2020 ",
       "endDate": "<END_DATE>",
       "gpa": "A",
       "summary": "<SUMMARY>",
@@ -72,7 +93,7 @@
       "institution": "Multimedia University, Cyberjaya",
       "area": "<AREA_OF_STUDY>",
       "studyType": "Masters of Software Engineering & Software Architecture ",
-      "startDate": "February 2013",
+      "startDate": "2014",
       "endDate": "<END_DATE>",
       "gpa": "3.3/4",
       "summary": "<SUMMARY>",

@@ -13,7 +13,7 @@ class aboutMe extends Component {
         <img src={image} alt=""/>
         <h1>About Me</h1>
         <p className={classes.Paragraph}>
-          Frontend developer with 6 years of experiences with proven background successfully managing all facets of site development. Advanced knowledge in web development using React Js, Redux , JavaScript ES6,Ajax,HTML5 and CCS3. Work collaboratively with clients and teams to provide rapid, robust and client-acclaimed frontend web development optimizing user experience. Responsible for all stages of web site creations for clientele, from initial design and architecture to development, deployment, and management of web sites.
+        React JS , React-native developer with a 8 years of experience building high performing presentation layers, building reusable components, and performance optimisation. Received Engineer Rockstar 2019 award from Aleph-labs for my contributions to delivering 6 projects successfully. 
 
         </p>
 
